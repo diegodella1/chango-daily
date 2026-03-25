@@ -1,2 +1,4 @@
 title: Chango Daily
 theme: jekyll-theme-minimal
+baseurl: "/chango-daily"
+permalink: /:year/:month/:day/:title/
